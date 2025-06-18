@@ -22,9 +22,9 @@
 - 💬 Ping Me about #softwaredesign, #cloud, #opensource, #internship, #webdev, #ai, and anything you like
 
 
-![Roger's commit stats](https://github-readme-stats.vercel.app/api?username=roger18gm&theme=algolia&show_icons=true)
-
-[![Roger's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=roger18gm&hide=html,css,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/roger18gm)
+| ![Roger's commit stats](https://github-readme-stats.vercel.app/api?username=roger18gm&theme=algolia&show_icons=true) | [![Roger's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=roger18gm&hide=html,css,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/roger18gm) |
+| ---- | ---- |
+<img src="https://github-profile-trophy.vercel.app/?username=roger18gm&theme=juicyfresh&no-bg=true" />
 <!--
 **roger18gm/roger18gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
